@@ -13,6 +13,9 @@ An AI-powered web app that compares a candidate's resume with a job description,
 🖼️ Snapshots of the Analyzer:
 <img width="1546" height="794" alt="image" src="https://github.com/user-attachments/assets/47856167-abca-4b24-a617-88ab22fe1737" />
 
+<img width="1508" height="709" alt="image" src="https://github.com/user-attachments/assets/50dfe2a0-2ef1-4251-87a0-f39784166f39" />
+
+
 ## 🛠️ Technologies Used
 - Python
 - Streamlit (UI framework)
@@ -38,4 +41,5 @@ pip install ‑r requirements.txt
 - Support for multiple resume uploads (batch analysis).
 - Screenshot-to-text JD parsing (OCR).
 - Integration with LinkedIn jobs API for auto JD fetching.
+
 
